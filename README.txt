@@ -7,6 +7,11 @@ ArtificialBeeColony.java - class which implements the ABC algorithm. Algorithm p
 Writer.java - class which holds a string list to be written in a log file.
 TesterABC.java - class which runs the tests and invokes the creation of the log file. 
 
+How to use:
+
+Install JAVA JDK.
+Compile and run TesterABC.java along with its required classes in your preferred editor.
+
 Sample log file:
 
 ABC-N4-50-1000.txt
